@@ -1,16 +1,28 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/embeddedalpha/embeddedalpha/refs/heads/master/python-blogn-banner2.png">
 
-<!--
-**Raie-dhamane/Raie-Dhamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hello, I'm Raie Dhamane
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I am a passionate Electronics and Telecommunication Engineer with expertise in embedded hardware development. Hands-on experience in PCB designing and a strong interest in VLSI. Passionate about designing efficient and innovative embedded solutions, integrating hardware and software for real-world applications.
+
+## 🛠️ Skills
+- **Programming Languages:** C | System Verilog | VHDL | MATLAB
+- **Microcontrollers:** ATmega2560 | ESP32 | ARM 7
+- **EDA Tools:** Altium | Kicad | LTSpice| NGSpice | Easy EDA| Keil uVision | Proteus |Vivado | Arduino IDE 
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/raie04/)
+
+## 📚 Education
+- **Bachelor of Techonology in Electronics and Telecommunication** from Pimpri Chinchwad college of Engineering, Pune (2026)
+
+
+## 🌱 Interests
+PCB Designing, Embedded Hardware, VLSI, Robotics
+
+
+
+<br />
+
+<br />
