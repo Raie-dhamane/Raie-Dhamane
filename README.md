@@ -4,7 +4,7 @@
 # 👋 Hello, I'm Raie Dhamane
 
 ## 🚀 About Me  
-I am a passionate Electronics and Telecommunication Engineer with expertise in embedded hardware development. Hands-on experience in PCB designing and a strong interest in VLSI. Passionate about designing efficient and innovative embedded solutions, integrating hardware and software for real-world applications.
+I am a passionate Electronics and Telecommunication Engineer with expertise in embedded hardware development. Hands-on experience in PCB designing, circuit designing and a strong interest in VLSI. Passionate about designing efficient and innovative embedded solutions, integrating hardware and software for real-world applications.
 
 ## 🛠️ Skills
 - **Programming Languages:** C | System Verilog | VHDL | MATLAB
